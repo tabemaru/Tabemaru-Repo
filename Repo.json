@@ -1,0 +1,124 @@
+{
+	"RepositoryName": "Tabemaru",
+	"RepositoryDescription": "by dgmsp",
+	"RepositoryAuthor": "dgmsp",
+	"RepositoryIcon": "https://cdn.discordapp.com/attachments/1185429272882581565/1188438883864686652/IMG_4523.png?ex=659a86f6&is=658811f6&hm=2a6ad7e22356a314ea199fb4ed7b709285709a9fb9f5bfd690211d2fb80426ec&",
+	"RepositoryWebsite": "https://Tabemaru.dgmsp.dev",
+	"Default": {
+		"HeaderImage": "https://puck.roeegh.com/assets/Banner.png",
+		"Author": {
+			"Label": "roeegh",
+			"Links": [
+				{
+					"Label": "Twitter",
+					"Link": "https://twitter.com/roeegh"
+				}
+			]
+		},
+		"ViewCount": true
+	},
+	"RepositoryContents": [
+		{
+			"Name": "MiuMin UI(dgmsp ver)",
+			"Description": "Change control center icon",
+			"Category": "Control Center",
+			"Caption": "Change control center icon.",
+			"MinIOSVersion": "16.1.1",
+			"MaxIOSVersion": "16.1.1",
+			"AdditionalSupportedIOS": {
+				"MinIOSVersion_CustomLabel": "16.1.1",
+				"MaxIOSVersion_CustomLabel": "16.1.1",
+				"Build": ["20G5026e"]
+			},
+			"Icon": "https:\/\/yangjiii.tech\/file\/Images\/RepoImages\/lamdep.png",
+			"Screenshot": [
+				"https:\/\/pbs.twimg.com\/media\/GBzeSv0aIAAOC--?format=jpg&name=large"
+			],
+			"Releases": [
+				{
+					"Version": "1.1",
+					"Package": "https://puck.roeegh.com/Tweaks/Better%20Focus/Better%20Focus.misaka",
+					"Description": "🌸 Fix for iOS 15"
+				}
+			],
+			"PackageID": "com.dgmsp.MiuMinUI"
+		},
+		{
+			"Name": "Bajji",
+			"Description": "•ᴗ•",
+			"Category": "SpringBoard",
+			"Caption": "Change the color of your badges.\n\nNotice: This will also affect any other part of the OS that uses the systemRedColor. This includes the low battery icon, cancel buttons, etc.",
+			"MinIOSVersion": "16.0",
+			"MaxIOSVersion": "16.6",
+			"AdditionalSupportedIOS": {
+				"MinIOSVersion_CustomLabel": "16.0",
+				"MaxIOSVersion_CustomLabel": "16.6b1",
+				"Build": ["20G5026e"]
+			},
+			"Icon": "https://puck.roeegh.com/Tweaks/Bajji/Images/Icon.png",
+			"Screenshot": ["https://puck.roeegh.com/Tweaks/Bajji/Images/Badges.png"],
+			"Releases": [
+				{
+					"Version": "2.0",
+					"Package": "https://puck.roeegh.com/Tweaks/Bajji/Bajji.misaka",
+					"Description": "🌸 Custom colors"
+				}
+			],
+			"PackageID": "com.roeegh.bajji"
+		},
+		{
+			"Name": "Palette",
+			"Description": "•ᴗ•",
+			"Category": "SpringBoard",
+			"Caption": "Change all available colors on your device.",
+			"MinIOSVersion": "16.0",
+			"MaxIOSVersion": "16.6",
+			"AdditionalSupportedIOS": {
+				"MinIOSVersion_CustomLabel": "16.0",
+				"MaxIOSVersion_CustomLabel": "16.6b1",
+				"Build": ["20G5026e"]
+			},
+			"Icon": "https://puck.roeegh.com/Tweaks/Palette/Images/Icon.png",
+			"Screenshot": [
+				"https://puck.roeegh.com/Tweaks/Palette/Images/Calculator.png",
+				"https://puck.roeegh.com/Tweaks/Palette/Images/Settings.png",
+				"https://puck.roeegh.com/Tweaks/Palette/Images/ControlCenter.png"
+			],
+			"Releases": [
+				{
+					"Version": "1.1",
+					"Package": "https://puck.roeegh.com/Tweaks/Palette/Palette.misaka",
+					"Description": "🌸 Fixed Yellow color not working in advanced settings"
+				}
+			],
+			"PackageID": "com.roeegh.palette"
+		},
+		{
+			"Name": "Joutai",
+			"Description": "•ᴗ•",
+			"Category": "SpringBoard",
+			"Caption": "Make your statusbar more useful with the ability to show more information.",
+			"MinIOSVersion": "15.0",
+			"MaxIOSVersion": "16.6",
+			"AdditionalSupportedIOS": {
+				"MinIOSVersion_CustomLabel": "15.0",
+				"MaxIOSVersion_CustomLabel": "16.6b1",
+				"Build": ["20G5026e"]
+			},
+			"Icon": "https://puck.roeegh.com/Tweaks/Joutai/Images/Icon.png",
+			"Screenshot": [
+				"https://puck.roeegh.com/Tweaks/Joutai/Images/Home.png",
+				"https://puck.roeegh.com/Tweaks/Joutai/Images/CC.png",
+				"https://puck.roeegh.com/Tweaks/Joutai/Images/Settings.png"
+			],
+			"Releases": [
+				{
+					"Version": "1.5",
+					"Package": "https://puck.roeegh.com/Tweaks/Joutai/Joutai.misaka",
+					"Description": "🌸 Added Extended Time module"
+				}
+			],
+			"PackageID": "com.roeegh.joutai"
+		}
+	]
+}
